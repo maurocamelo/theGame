@@ -15,6 +15,8 @@ By using interfaces, "identity" and "functionality" are used and a contract is a
 PlayService.java interface shows the OOP "inheritance" usage by extending the SetUpService.java interface ; infact for example a class can implement more than one interface but can only inherit from one abstract class (this is the difference between interface and abstract class).
 
 By using JavaBeans like Character.java and Weapon.java I shows OOP "encapsulation" usage by hiding data implementation and restricting access to getter and setter.
+
+<a href="https://user-images.githubusercontent.com/30404707/35335332-90a45296-0115-11e8-9100-a0647130a149.jpg" target="_blank">Click here to enlarge UML Class Diagram</a>
 __________________________________
 
 January 2018 - @author : Mauro Camelo
