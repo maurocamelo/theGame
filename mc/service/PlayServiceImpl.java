@@ -68,7 +68,7 @@ public class PlayServiceImpl implements PlayService {
 					secondWeapon = weapons.get(x+1).getType();	
 				}
 				
-				System.out.print(characters.get(c).getName() + " is using 2 weapon : "
+				System.out.print(characters.get(c).getName() + " is using 2 weapons : "
 						+ weapons.get(x).getType() + 
 						" and " +secondWeapon + 
 						". The behaviour is : " + weapons.get(x).getBehaviour() + "\n");
