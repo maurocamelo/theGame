@@ -1,6 +1,6 @@
 # theGame
 
-Please note for mc.main.Game.java : launch this class to start the app. During the same game Game.java has to be launched more than one time to get different results. The method startPlayPoint1 is related to point n°1 and the method startPlayPoint2 is related to point n°2 of the document
+Please note for mc.main.Game.java : launch this class to start the app. During the same game Game.java has to be launched more than one time to get different results. The method startPlayPoint1 is related to point n°1 and the method startPlayPoint2 is related to point n°2 of the document.
 
 With "theGame" app I reproduce the following patterns :
 
