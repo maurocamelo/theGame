@@ -2,11 +2,7 @@
 
 Please note for mc.main.Game.java
 
-Launch this class to start the app. During the same game this class has to be launched more than one time to get different results.
-
-startPlayPoint1 method's objective : there is a set of characters and a set of weapons with its own behaviour, the players can use in the game. Each character can make use of one weapon at a time but can change weapons at any time during the game.
-
-startPlayPoint2 method's objective : make characters use two different weapons at a time.
+Launch this class to start the app. During the same game this class has to be launched more than one time to get different results. <u>startPlayPoint1 method's objective</u> : there is a set of characters and a set of weapons with its own behaviour, the players can use in the game. Each character can make use of one weapon at a time but can change weapons at any time during the game. <u>startPlayPoint2 method's objective</u> : make characters use two different weapons at a time.
 
 With "theGame" app I reproduce the following patterns :
 
